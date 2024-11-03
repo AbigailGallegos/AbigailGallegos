@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Diana Abigail Gallegos</h2>
+<h2 align="center"><marquee behavior="alternate">Hi 👋! My name is Diana Abigail Gallegos</marquee></h2>
+
 
 ###
 
